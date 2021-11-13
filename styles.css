@@ -1,0 +1,8 @@
+body {
+	display: flex;
+}
+
+.gameForm {
+	display: flex;
+	flex-flow: column nowrap;
+}
